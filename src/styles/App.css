@@ -1,0 +1,26 @@
+body{
+    margin:0;
+}
+
+
+/*
+main window
+*/
+.Main-window{
+    margin:0;
+}
+.Main-window-statement {
+    color: rgb(0, 200, 200);
+    font-family: 'Tektur';
+    position: absolute;
+    font-size: 100%;
+    top:90%;
+    left:75%;
+}
+.Main-image {
+    width: 100%;
+    height: auto;
+}
+/*
+skills window
+*/
